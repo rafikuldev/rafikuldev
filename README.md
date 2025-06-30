@@ -18,7 +18,7 @@
 
 ## 🚀 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=laravel,php,wordpress,html,css,bootstrap,javascript,jquery,mysql,git" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=laravel,php,wordpress,react,html,css,tailwind,bootstrap,javascript,jquery,mysql,git,codepen" alt="Tech stack" />
 
 ---
 
@@ -45,6 +45,7 @@
 
 ## 📫 Let's Connect
 
+- 🔗 [Codepen](https://codepen.io/HayRafikul)
 - 🔗 [Facebook](https://www.facebook.com/rafikul20)
 - 📧 Email: rafekulislam69@gmail.com
 
