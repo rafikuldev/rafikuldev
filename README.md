@@ -1,37 +1,58 @@
 
-<h1 align="center">Hi 👋, I'm Rafikul Islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafikul20&label=Profile%20views&color=0e75b6&style=flat" alt="rafikul20" /> </p>
-
-<p align="left"> <a href="https://www.instagram.com/rafikul_20/" target="blank"><img src="https://img.shields.io/twitter/follow/rafikul_20?logo=twitter&style=for-the-badge" alt="rafikul20r" /></a> </p>
-
-- 🔭 I’m currently working on **Web development**
-
-- 🌱 I’m currently learning **PHP,Laravel**
-
-- 👯 I’m looking to collaborate on **Ethical hacking**
-
-- 💬 Ask me about **JavaScript**
-
-- 📫 How to reach me **rafekulislam69@gmail.com**
-
-- ⚡ Fun fact **I Think I'm Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rafikul20r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafikul20r" height="30" width="40" /></a>
-<a href="https://fb.com/rafikul20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rafikul20" height="30" width="40" /></a>
-<a href="https://instagram.com/rafikul_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafikul_20" height="30" width="40" /></a>
+<p align="center">
+  <img width: 150px src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Animated GitHub Snake Banner" width="100%"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  </p>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+# 👋 Hi there, I'm Rafikul Islam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafikulislamrafi&show_icons=true&locale=en&layout=compact" alt="rafikulislamrafi" /></p>
+🎓 I'm a junior web developer with a passion for building dynamic and functional websites using **Laravel** and **WordPress**.  
+📖 Currently studying Islamic History (Hons.), I enjoy blending history and technology to craft meaningful digital solutions.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafikulislamrafi&show_icons=true&locale=en" alt="rafikulislamrafi" /></p>
+---
 
+![Profile Views](https://komarev.com/ghpvc/?username=rafikulislamrafi&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/rafikulislamrafi?label=Followers&style=social)
+
+---
+
+## 🚀 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=laravel,php,wordpress,html,css,bootstrap,javascript,jquery,mysql,git" alt="Tech stack" />
+
+---
+
+## 📁 Featured Projects
+
+### 🔧 Laravel Projects
+- 📰 **News Portal CMS** – Admin panel, category-based article system, and user authentication.
+- 📧 **Contact Form App** – Laravel form with email integration and validation.
+
+### 🌐 WordPress Projects
+- 💼 **Portfolio Website** – Custom WP theme built using Elementor and ACF.
+- 🛒 **E-Commerce Demo** – WooCommerce-powered store with secure checkout and payment gateway.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafikulislamrafi&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafikulislamrafi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [Facebook](https://www.facebook.com/rafikul20)
+- 📧 Email: rafekulislam69@gmail.com
+
+---
+
+### ⚡ Fun Fact:
+> I love exploring both historical events and new web technologies — from the golden age of Islamic civilization to the latest Laravel updates!
+>
+> <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Web Dev Banner">
+</p>
