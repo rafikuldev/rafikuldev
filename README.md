@@ -10,11 +10,11 @@
 📖 Currently studying Islamic History (Hons.), I enjoy blending history and technology to craft meaningful digital solutions.
 
 ---
-
+<!-- 
 ![Profile Views](https://komarev.com/ghpvc/?username=rafikulislamrafi&color=blueviolet)
 ![GitHub followers](https://img.shields.io/github/followers/rafikulislamrafi?label=Followers&style=social)
 
----
+--- -->
 
 ## 🚀 Tech Stack
 
